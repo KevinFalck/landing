@@ -1,0 +1,17 @@
+.herobanner {
+  background-size: cover;
+  background-position: center;
+  padding: 180px 0;
+}
+
+.herobanner h1 {
+  color: white;
+  text-shadow: 1px 1px 5px rgb(138, 138, 138);
+}
+
+.herobanner p {
+  color: white;
+  opacity: .8;
+  font-size: 20px;
+  text-shadow: 1px 1px 3px rgb(187, 187, 187);
+}
